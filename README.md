@@ -35,7 +35,7 @@ Once the alarm is sounded I'd expect several things to happen. Facilities must b
 ## Resources
 
 Wiki providing detailed information: [Link](https://www.projectu.link/mediawiki) <br/>
-Same information in a PDF document: [Link](https://github.com/mk-ultra-zero/projectu/blob/main/Documents/Public%20annoucement.pdf)
+Same information in a PDF document: [Link](https://raw.githubusercontent.com/mk-ultra-zero/projectu/main/Documents/Project%20U.pdf)
 
 The files in this repository hosted on: [Proton Drive](https://drive.protonmail.com/urls/806Z3FBFM0#6z7IHs94cd77)
 
