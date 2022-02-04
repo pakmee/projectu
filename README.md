@@ -31,3 +31,12 @@ I have done some work to prove the existence of the neural interface. You can re
 My first priority is to provide conclusive, peer reviewed evidence of at least one my implants to enable me to take my story to the media. It should not prove too difficult, I have outlined various ways here. If you think you can help, please contact me at [mk.ultra.zero@pm.me](mailto:mk.ultra.zero@pm.me)
 
 Once the alarm is sounded I'd expect several things to happen. Facilities must be made available so that anyone can check to see if they have been implanted with a device without their consent. Hopefully all the other test subjects can be found. In the longer term we must put protections in place to minimise the danger that humanity goes any further down this very dark path. Laws must be implemented and international treaties signed to prevent the further proliferation of such technologies. 
+
+## Resources
+
+Wiki providing detailed information: [Link](https://www.projectu.link/mediawiki)
+Same information in a PDF document: [Link](https://github.com/mk-ultra-zero/projectu/blob/main/Documents/Public%20annoucement.pdf)
+
+The files in this repository hosted on: [Proton Drive](https://drive.protonmail.com/urls/806Z3FBFM0#6z7IHs94cd77)
+
+Contact me: [mk.ultra.zero@pm.me](mailto:mk.ultra.zero@pm.me)
